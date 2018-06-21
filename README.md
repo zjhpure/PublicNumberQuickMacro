@@ -2,8 +2,8 @@ Android下的公众号按键精灵,自动点击公众号历史消息
 
 
 ## 说明
-1. 与Python爬取微信公众号文章(中间人代理法)结合使用，详细介绍请看https://www.jianshu.com/p/667f3668cd70以及https://github.com/zjhpure/crawler_public_number
-2. 与Python爬取微信公众号文章的阅读数和点赞数结合使用，详细介绍请看https://www.jianshu.com/p/667f3668cd70以及https://github.com/zjhpure/crawler_public_number_article
+1. 与Python爬取微信公众号文章(中间人代理法)结合使用，详细介绍请看https://www.jianshu.com/p/667f3668cd70
+2. Python爬取微信公众号文章(中间人代理法)的github地址：https://github.com/zjhpure/crawler_public_number
 
 
 ## 启动前准备
