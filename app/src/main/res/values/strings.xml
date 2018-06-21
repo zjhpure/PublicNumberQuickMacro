@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">公众号按键精灵</string>
+    <string name="current_server">当前服务器：127.0.0.1:10000</string>
+    <string name="set_server">设置服务器：</string>
+    <string name="server_format">ip地址+端口</string>
+    <string name="enture">确定</string>
+    <string name="description_splash_imageview">启动页背景图片</string>
+    <string name="description_item_func_imageview">功能logo</string>
+    <string name="description_accessibility">公众号按键精灵辅助功能，开启后自动点击公众号历史消息</string>
+
+</resources>

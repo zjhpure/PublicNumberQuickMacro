@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="titlecolor">#ff2081D9</color>
+    <color name="line_color">#dadada</color>
+    <color name="normalcolor">#ff333333</color>
+    <color name="itemcolor">#ffffffff</color>
+    <color name="itemcolor_press">#fff0f0f0</color>
+
+    <color name="black">#FF000000</color>
+    <color name="gray">#A52A2A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_color">#ff99cc00</color>
+
+    <color name="background_color">#eaf4fa</color>
+    <color name="flash_background_color">#3d3d3d</color>
+
+    <!--UI 3.0 -->
+    <color name="color_c1">#da1419</color> <!--全局主色-->
+    <color name="color_c1d">#ec898c</color> <!--主色disable状态-->
+    <color name="color_c1a">#fff1f1</color> <!--反色按钮及标签底色-->
+    <color name="color_c2">#2d6cd6</color> <!--标签底色-->
+    <color name="color_c3">#ff9600</color> <!--标签底色-->
+    <color name="color_g1">#2a2a2a</color> <!--主文字颜色-->
+    <color name="color_g2">#b2b2b2</color> <!--副文字颜色1-->
+    <color name="color_g2plus">#676767</color> <!--副文字颜色2-->
+    <color name="color_g3">#a2a2a2</color> <!--副文字颜色3-->
+    <color name="color_g4">#dddddd</color>
+    <color name="color_g4plus">#e7e7e7</color> <!--全局分隔线颜色-->
+    <color name="color_g5">#f2f2f2</color> <!--全局背景及部分输入框底色-->
+    <color name="color_g6">#f7f7f7</color> <!--全局边界边框底色-->
+    <color name="color_g7">#ffffff</color>
+
+</resources>
